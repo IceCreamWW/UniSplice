@@ -1,7 +1,7 @@
 import numpy as np
 
-from g2p import IG2P, SoundChoiceG2P
-from p2s import P2S
+from .g2p import IG2P, SoundChoiceG2P
+from .p2s import P2S
 
 
 class UniSplice:
